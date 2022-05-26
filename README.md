@@ -1,5 +1,5 @@
-### ProcessingGradle
-This is a template for using Processing with the Gradle Build Tool\
+### ProcessingGradleKotlin
+This is a template for using Processing with the Gradle Build Tool and Kotlin\
 It uses Processing version 4.0 beta 8 and Gradle 7.4
 
 ### How to use
